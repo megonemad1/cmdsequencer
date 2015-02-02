@@ -1,0 +1,1 @@
+c:\users\rhys\documents\visual studio 2013\Projects\CmdSequence\CmdSequence\bin\Debug\CmdSequence.exe.config
