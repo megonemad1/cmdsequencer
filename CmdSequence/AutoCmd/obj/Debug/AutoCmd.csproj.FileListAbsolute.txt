@@ -1,0 +1,5 @@
+C:\Users\rhys\Documents\Visual Studio 2013\Projects\cmdsequencer\CmdSequence\AutoCmd\obj\Debug\AutoCmd.csprojResolveAssemblyReference.cache
+C:\Users\rhys\Documents\Visual Studio 2013\Projects\cmdsequencer\CmdSequence\AutoCmd\bin\Debug\AutoCmd.dll
+C:\Users\rhys\Documents\Visual Studio 2013\Projects\cmdsequencer\CmdSequence\AutoCmd\bin\Debug\AutoCmd.pdb
+C:\Users\rhys\Documents\Visual Studio 2013\Projects\cmdsequencer\CmdSequence\AutoCmd\obj\Debug\AutoCmd.dll
+C:\Users\rhys\Documents\Visual Studio 2013\Projects\cmdsequencer\CmdSequence\AutoCmd\obj\Debug\AutoCmd.pdb
